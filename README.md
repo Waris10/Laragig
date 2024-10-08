@@ -64,3 +64,12 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Laragig 
+
+This is a Job Listing project, whereby employers and employees interact
+
+The features are:
+- User authentication (login/register)
+- Role-based access control (admin, user)
+- Job creation and management
